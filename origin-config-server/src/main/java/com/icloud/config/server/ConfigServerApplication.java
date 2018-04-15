@@ -9,6 +9,10 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 
 
+
+
+
+
 //注册及发现服务
 @EnableDiscoveryClient
 //XXX @EnableWebSecurity
